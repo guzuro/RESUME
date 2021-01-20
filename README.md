@@ -19,3 +19,4 @@
 [Adaptive Navbar](https://guzuro.github.io/adaptiveNav) | HTML, CSS, JavaScript | Верстка
 [Review List](https://guzuro.github.io/reviewsList/) | HTML, CSS, JavaScript | JavaScript
 [Car Catalog](https://guzuro.github.io/carCatalog/) | HTML, CSS, JavaScript | JavaScript
+[Remove background from image](https://guzuro.github.io/bgRemove/) | HTML, CSS, Bootstrap JavaScript, benzin.io API | JavaScript
