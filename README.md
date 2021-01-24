@@ -12,6 +12,7 @@
 
 | ПРОЕКТ | ТЕХНОЛОГИИ | КАТЕГОРИЯ |
 |--------|----------- | ----------|
+[Waxom](https://guzuro.github.io/waxom/) | HTML, CSS, jQuery | Верстка 
 [Dart Service Manager](https://guzuro.github.io/dartService/) | HTML, CSS, Bootstrap, jQuery | Верстка 
 [Lucid](https://guzuro.github.io/lucidOnepage/) | HTML, CSS, jQuery | Верстка
 [Tajam](https://guzuro.github.io/tajam/) | HTML, CSS, JavaScript+jQuery | Верстка
