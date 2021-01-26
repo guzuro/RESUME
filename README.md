@@ -12,6 +12,7 @@
 
 | ПРОЕКТ | ТЕХНОЛОГИИ | КАТЕГОРИЯ |
 |--------|----------- | ----------|
+[Simple issue tracker](https://guzuro.github.io/issueTracker/) | HTML, CSS, Bootstrap, JavaScript | JavaScript 
 [Waxom](https://guzuro.github.io/waxom/) | HTML, CSS, jQuery | Верстка 
 [Dart Service Manager](https://guzuro.github.io/dartService/) | HTML, CSS, Bootstrap, jQuery | Верстка 
 [Lucid](https://guzuro.github.io/lucidOnepage/) | HTML, CSS, jQuery | Верстка
