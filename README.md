@@ -18,7 +18,6 @@
 [Lucid](https://guzuro.github.io/lucidOnepage/) | HTML, CSS, jQuery | Верстка
 [Tajam](https://guzuro.github.io/tajam/) | HTML, CSS, JavaScript+jQuery | Верстка
 [Webby](https://guzuro.github.io/webby/) | HTML, CSS | Верстка
-[Adaptive Navbar](https://guzuro.github.io/adaptiveNav) | HTML, CSS, JavaScript | Верстка
 [Review List](https://guzuro.github.io/reviewsList/) | HTML, CSS, JavaScript | JavaScript
 [Car Catalog](https://guzuro.github.io/carCatalog/) | HTML, CSS, JavaScript | JavaScript
 [Remove background from image](https://guzuro.github.io/bgRemove/) | HTML, CSS, Bootstrap JavaScript, benzin.io API | JavaScript
